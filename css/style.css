@@ -1,0 +1,41 @@
+/* ▓▒▒▒▒▒▒▒▒▒▒▒ UTILITIES CLASSES ▒▒▒▒▒▒▒▒▒▒▒▓ */
+.myButton {
+    color: white;
+    background-color: #E76F51;
+    padding: 8px 30px !important;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.myButton:hover {
+    color: white !important;
+}
+.sub-text {
+    color: #E0E0E0;
+}
+
+
+/* ▓▒▒▒▒▒▒▒▒▒▒▒ HEADER SECTION ▒▒▒▒▒▒▒▒▒▒▒▓ */
+header {
+    background-color: #264653;
+    height: 100vh;
+    width: 100%;
+}
+.my-nav {
+    background-color: #264653; 
+}
+.login-btn {
+    margin-left: 80px;
+}
+.head {
+    padding-top: 7rem;
+}
+.header-info h1 {
+    font-size: 48px;
+}
+.header-info p{
+    letter-spacing: 1.5px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
