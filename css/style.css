@@ -80,6 +80,9 @@ header {
 
 
 /* ▓▒▒▒▒▒▒▒▒▒▒▒ LATEST_NEWS SECTION ▒▒▒▒▒▒▒▒▒▒▒▓ */
+.letest-news {
+    margin-top: 15rem;
+}
 .letest-news-content h1{
     font-size: 48px;
     margin-top: 7rem;
@@ -89,6 +92,9 @@ header {
 }
 
 /* ▓▒▒▒▒▒▒▒▒▒▒▒ HAPPY CLIENT SECTION ▒▒▒▒▒▒▒▒▒▒▒▓ */
+.testimonial {
+    margin-top: 15rem;
+}
 .testimonial-img {
     width: 130px;
     display: block;
