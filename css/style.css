@@ -31,6 +31,9 @@
 .tomato-text {
     color: #E76F51;
 }
+.sky-text {
+    color: #23A6F0;
+}
 
 
 /* ▓▒▒▒▒▒▒▒▒▒▒▒ HEADER SECTION ▒▒▒▒▒▒▒▒▒▒▒▓ */
@@ -86,3 +89,22 @@ header {
 }
 
 /* ▓▒▒▒▒▒▒▒▒▒▒▒ HAPPY CLIENT SECTION ▒▒▒▒▒▒▒▒▒▒▒▓ */
+.testimonial-img {
+    width: 130px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.icon img {
+    display: block;
+    margin: 0 auto;
+}
+.card-body {
+    padding: 1rem 5.5rem;
+}
+.testimonial h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
